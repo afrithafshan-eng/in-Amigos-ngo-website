@@ -1,2 +1,2 @@
-# in-Amigos-ngo-website
-NGO awareness website built using HTML and CSS to promote social initiatives and community development.
+# ngo-awareness-website
+A responsive NGO awareness website developed using HTML and CSS to showcase the organization, its social initiatives, activities, and contribution towards community development.
